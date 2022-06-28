@@ -7,7 +7,8 @@
 
 \description{
   This function takes a netcmc object of samples from the posterior 
-    distribution of a parameter(s) and returns a visual convergence diaagnostics in the form of a density plot, trace plot, and ACF plot.
+distribution of a parameter(s) and returns a visual convergence diaagnostics in 
+the form of a density plot, trace plot, and ACF plot.
 }
 
 \usage{

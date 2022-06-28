@@ -1,4 +1,4 @@
-23b8e617c61d9116bb2524c6462ffc79 *DESCRIPTION
+f0f88bb4c59d6fc16572aa4a12b23202 *DESCRIPTION
 243ceb6a1fb45ef992df04911b75607d *NAMESPACE
 31ee41cfe8faf82d7c02d6b417920635 *R/RcppExports.R
 39a04dea477e2c6c51608f9c99d8a1e5 *R/checkModelMCMCInputParameters.R
@@ -34,8 +34,8 @@ c463dcaa9a0fbb3239f1391f2aa16962 *man/multiNet.Rd
 afb05d3820bbd853e8936abdadb9628a *man/multiNetLeroux.Rd
 a452e81c8b3bd331031e353f6f8c9327 *man/multiNetRand.Rd
 243be3b79f0f8f7b6b11685cfa999a72 *man/netcmc-package.Rd
-e09f1be8158ea0c64f90e93f6b6e0da6 *man/plot.netcmc.Rd
-3b1b10b5bf8069e69163d0a8b22661b6 *man/summary.netcmc.Rd
+780c3d76db5166a8f71c7f4560f51375 *man/plot.netcmc.Rd
+250f3fb5601aef8f3c395f68c47a955b *man/summary.netcmc.Rd
 8753935d80bac2ea81772adf858da65a *man/uni.Rd
 cef299781760aba47627e810141aa8c0 *man/uniNet.Rd
 dcf656bf0513dfb64d30cb77a4731ebd *man/uniNetLeroux.Rd
