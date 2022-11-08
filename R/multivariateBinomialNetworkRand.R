@@ -161,7 +161,7 @@ multivariateBinomialNetworkRand = function(formula,
                                                      centerVRandomEffects = centerVRandomEffects,
                                                      centerURandomEffects = centerURandomEffects)
   
-  if(colnames(X) == "(Intercept)" && ncol(X) == 1){
+  if(ncol(X) == 1 && colnames(X) == "(Intercept)"){
     betaSamples = output[[1]]
   } else {
     unconvertedBetaSamples = output[[1]]
